@@ -1,0 +1,9 @@
+HUONG DAN NHANH
+
+1. Giai nen tep ZIP nay.
+2. Toan bo bai lam nam trong thu muc 25D4802010004_DoanThiThanhHuong_GK_MNM.
+3. Tep SQL, CSV, README va tep backup SQL da duoc dat dung cau truc theo de.
+4. De co repository GitHub va link nop bai that, can dang nhap tai khoan GitHub cua ban va dua thu muc len repository Public ten:
+   25D4802010004_DoanThiThanhHuong_GK_MNM
+5. Khong gui mat khau/token GitHub cho bat ky ai. Sau khi push, tao nhanh nop-bai va push nhanh do.
+6. Tep export/gk_thuvien_backup.sql la tep SQL co the phuc hoi du lieu sau Cau 2, khong phai tep duoc tao truc tiep boi lenh pg_dump. Neu giang vien doi chieu nguon tao tep, can chay lenh pg_dump trong README tren PostgreSQL truoc khi nop.
